@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1578173734 source:c:\users\eya nakkache\desktop\hello\gestionpersonnel\dynamique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dynamique.h"
+
+1578174268 c:\users\eya nakkache\desktop\hello\gestionpersonnel\dynamique.h
+
+1578170208 source:c:\users\eya nakkache\desktop\hello\gestionpersonnel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dynamique.h"
+
+1578247105 source:c:\users\asus\desktop\ya rab\dynamique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dynamique.h"
+
+1578247322 c:\users\asus\desktop\ya rab\dynamique.h
+
